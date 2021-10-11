@@ -1,2 +1,2 @@
-# WiFi test with a websocket server
+# WiFi AP test with a websocket server
 
